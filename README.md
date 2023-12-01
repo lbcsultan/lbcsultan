@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=Wave&text=lbcsultan)
 - 👋 Hi, I’m @lbcsultan
 - 👀 I’m interested in token authentication, information security, web security protocol, and various web applications. 
-- 🌱 I’m currently learning on Angular, Ionic, Node.js, Strapi, etc.
+- 🌱 I’m mainly working with React, Next.js, Node.js, Tailwind, MongoDB, etc.
 - 💞️ I’m looking to collaborate on applications of paired token authentication (PTA) technology. 
 - 📫 How to reach me? You already reached to me!
 
